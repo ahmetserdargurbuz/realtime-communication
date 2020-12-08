@@ -9,7 +9,7 @@ server_socket.bind(server_address)
 server_socket.listen(1)
 
 (client_socket, client_address) = server_socket.accept()
-print(client_address, "co.")
+print(client_address, "connected.")
 
 
 # Welcome Client
