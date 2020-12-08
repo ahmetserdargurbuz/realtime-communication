@@ -1,4 +1,4 @@
-# realtime-communication
+# Realtime Communication using TCP
 
 ## Description:
 This application is a demonstration of a server-client realtime communication using TCP.
