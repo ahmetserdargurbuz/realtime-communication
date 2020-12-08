@@ -7,9 +7,9 @@ server and client can both send and receive messages simultaneously in a non-blo
 
 ## Run:
 
-python server.py <HOST> <PORT>
+python server.py [HOST] [PORT]
 
-python client.py <SERVER_HOST> <SERVER_PORT> 
+python client.py [SERVER_HOST] [SERVER_PORT] 
 
 ## Notes:
 
